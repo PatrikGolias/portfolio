@@ -1,1 +1,28 @@
-
+body {
+  font-family:Courier New;
+  background: #a0d2eb;
+  color: black;
+  text-align: center;
+  font-size: 20px
+}
+h2 {
+  font-family:Verdana;
+  font-size: 25px;
+  text-align: left;
+  }
+h3 {
+  font-family:Georgia;
+  font-size: 16px;
+  text-align: left;
+  }
+  
+h4 {
+  font-family:Verdana;
+  font-size: 17px;
+  text-align: left;
+  }
+li {
+  font-family:Verdana;
+  font-size: 15px;
+  text-align: left;
+  }
