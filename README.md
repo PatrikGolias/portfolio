@@ -1,3 +1,3 @@
 # portfolio
 Moje osobní portfolio
-https://patrikgolias.github.io./
+https://patrikgolias.github.io/portfolio/
